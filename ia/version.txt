@@ -1,0 +1,4 @@
+LEHD Origin-Destination Employment Statistics (LODES)
+IA (Iowa)
+Data Vintage: 20160219_1328
+Release Format Version 7.2
